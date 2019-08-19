@@ -1,5 +1,6 @@
 {
   "name": "art-es/laravel-pagination-buttons",
+  "license": "MIT",
   "description": "Package for getting pagination buttons from laravel framework",
   "type": "library",
   "require": {

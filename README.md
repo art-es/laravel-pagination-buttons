@@ -1,5 +1,11 @@
 # Laravel Pagination Buttons
 
+## Installation
+
+```shell script
+composer require art-es/laravel-pagination-buttons
+```
+
 ## Usage
 
 Get pagination buttons. 
@@ -23,3 +29,7 @@ You can use
     </a>
 @endforeach
 ```
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
