@@ -1,5 +1,5 @@
 {
-  "name": "art-es/laravel-builder",
+  "name": "art-es/laravel-pagination-buttons",
   "description": "Package for getting pagination buttons from laravel framework",
   "type": "library",
   "require": {
